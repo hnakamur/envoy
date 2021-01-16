@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/usr/include",
+                "/usr/local/include",
+                "${workspaceFolder}",
+                "${workspaceFolder}/include",
+                "${workspaceFolder}/source",
+                "${workspaceFolder}/bazel-bin",
+                "${workspaceFolder}/bazel-bin/external/com_envoyproxy_protoc_gen_validate",
+                "${workspaceFolder}/bazel-bin/external/com_github_cncf_udpa",
+                "${workspaceFolder}/bazel-bin/external/com_google_googleapis",
+                "${workspaceFolder}/bazel-bin/external/envoy/bazel/foreign_cc/nghttp2/include",
+                "${workspaceFolder}/bazel-bin/external/envoy_api",
+                "${workspaceFolder}/bazel-bin/source/common/common/_virtual_includes/logger_impl_lib_standard",
+                "/home/hnakamur/.cache/bazel/_bazel_hnakamur/4ca935e9b5c3b37de2c8f74527902b1e/external/com_github_cyan4973_xxhash",
+                "/home/hnakamur/.cache/bazel/_bazel_hnakamur/4ca935e9b5c3b37de2c8f74527902b1e/external/com_github_fmtlib_fmt/include",
+                "/home/hnakamur/.cache/bazel/_bazel_hnakamur/4ca935e9b5c3b37de2c8f74527902b1e/external/com_github_gabime_spdlog/include",
+                "/home/hnakamur/.cache/bazel/_bazel_hnakamur/4ca935e9b5c3b37de2c8f74527902b1e/external/com_google_absl"
+            ],
+            "defines": [],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "/usr/include",
+                    "/usr/local/include",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
